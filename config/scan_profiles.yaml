@@ -1,0 +1,7 @@
+# Default scan profiles
+profiles:
+  default:
+    recon: true
+    web_scan: true
+    vuln_scan: true
+    timeout: 3600

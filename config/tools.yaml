@@ -1,0 +1,8 @@
+# Example tool configurations
+tools:
+  nmap:
+    path: nmap
+    default_args: -sV -oX
+  nikto:
+    path: nikto
+    default_args: -h

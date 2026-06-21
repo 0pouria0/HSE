@@ -1,0 +1,4 @@
+# API keys template
+keys:
+  claude: "<CLAUDE_API_KEY>"
+  openai: "<OPENAI_API_KEY>"
