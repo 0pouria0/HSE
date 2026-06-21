@@ -14,7 +14,8 @@ dependencies = [
     "alembic>=1.10",
     "psycopg2-binary>=2.9",
     "PyYAML>=6.0",
-    "requests>=2.0"
+    "requests>=2.31,<3",
+    "defusedxml>=0.7.1"
 ]
 
 [tool.optional-dependencies]
